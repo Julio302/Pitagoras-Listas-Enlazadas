@@ -1,0 +1,80 @@
+﻿@{
+    ViewBag.Title = "Fotos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h2>Fotos</h2>
+
+<div class="container">
+    <table style="margin-top:1em;" class="table table-bordered table-hover table-responsive">
+        <form>
+            <li style="list-style:none;">
+                <label>Page: </label>
+                <a class="btn" onclick="next()" value="1">1</a>
+                <a class="btn" onclick="next()" value="2">2</a>
+                <a class="btn" onclick="next()" value="3">3</a>
+                <a class="btn" onclick="next()" value="4">4</a>
+                <a class="btn" onclick="next()" value="5">5</a>
+                <a class="btn" onclick="next()" value="6">6</a>
+                <a class="btn" onclick="next()" value="7">7</a>
+                <a class="btn" onclick="next()" value="8">8</a>
+                <a class="btn" onclick="next()" value="9">9</a>
+                <a class="btn" onclick="next()" value="10">10</a>
+            </li>
+        </form>
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Img</td>
+                <td>Operaciones</td>
+            </tr>
+        </thead>
+        <tbody class="tbody"></tbody>
+    </table>
+</div>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $(document).ready(function () {
+        
+        document.querySelectorAll(".btn").forEach((item, key) => {
+            item.addEventListener("click", event => {
+                //alert(key+1);
+
+                $.ajax({
+                    url: "https://jsonplaceholder.typicode.com/albums/"+(key+1)+"/photos",
+                    //url: "https://jsonplaceholder.typicode.com/photos",
+                    type: "GET",
+                    contentType: "application/json;charset=utf-8",
+                    dataType: "json",
+                    success: function (result) {
+                        var html = '';
+
+                        $.each(result, function (key, item) {
+                            html += '<tr>';
+                            //html += '<td>' + result[key].albumId + '</td>';
+                            html += '<td>' + result[key].id + '</td>';
+                            html += '<td>' + result[key].title + '</td>';
+                            html += '<td><img src="' + result[key].thumbnailUrl + '"></td>';
+                            html += '<td><button class="btn btn-success" onclick="getbyID(' + result[key].id + ')">Guardar</td>';
+                            html += '</tr>';
+                            //alert(result[key].title);
+                        });
+                        $('.tbody').html(html);
+                    },
+                    error: function (errormessage) {
+                        alert(errormessage.responseText);
+                    }
+                })
+
+            })
+        })
+
+        
+    })
+
+
+</script>

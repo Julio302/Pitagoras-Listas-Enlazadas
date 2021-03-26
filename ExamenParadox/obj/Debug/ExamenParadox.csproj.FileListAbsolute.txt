@@ -1,0 +1,6 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\ExamenParadox\bin\Debug\ExamenParadox.exe.config
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\ExamenParadox\bin\Debug\ExamenParadox.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\ExamenParadox\bin\Debug\ExamenParadox.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\ExamenParadox\obj\Debug\ExamenParadox.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\ExamenParadox\obj\Debug\ExamenParadox.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\ExamenParadox\obj\Debug\ExamenParadox.pdb

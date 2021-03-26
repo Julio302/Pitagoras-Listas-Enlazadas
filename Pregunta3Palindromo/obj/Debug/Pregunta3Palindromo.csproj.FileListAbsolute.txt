@@ -1,0 +1,5 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta3Palindromo\bin\Debug\Pregunta3Palindromo.exe.config
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta3Palindromo\bin\Debug\Pregunta3Palindromo.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta3Palindromo\bin\Debug\Pregunta3Palindromo.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta3Palindromo\obj\Debug\Pregunta3Palindromo.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta3Palindromo\obj\Debug\Pregunta3Palindromo.pdb

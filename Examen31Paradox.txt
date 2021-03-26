@@ -1,0 +1,2 @@
+Juan|31|Gerente
+Julio|24|Empleado

@@ -1,0 +1,6 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta2Pitagoras\bin\Debug\Pregunta2Pitagoras.exe.config
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta2Pitagoras\bin\Debug\Pregunta2Pitagoras.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta2Pitagoras\bin\Debug\Pregunta2Pitagoras.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta2Pitagoras\obj\Debug\Pregunta2Pitagoras.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta2Pitagoras\obj\Debug\Pregunta2Pitagoras.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta2Pitagoras\obj\Debug\Pregunta2Pitagoras.pdb

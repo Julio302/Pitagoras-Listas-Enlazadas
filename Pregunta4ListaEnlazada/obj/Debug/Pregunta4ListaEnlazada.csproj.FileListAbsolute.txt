@@ -1,0 +1,6 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta4ListaEnlazada\bin\Debug\Pregunta4ListaEnlazada.exe.config
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta4ListaEnlazada\bin\Debug\Pregunta4ListaEnlazada.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta4ListaEnlazada\bin\Debug\Pregunta4ListaEnlazada.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta4ListaEnlazada\obj\Debug\Pregunta4ListaEnlazada.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta4ListaEnlazada\obj\Debug\Pregunta4ListaEnlazada.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenParadox\Pregunta4ListaEnlazada\obj\Debug\Pregunta4ListaEnlazada.pdb
